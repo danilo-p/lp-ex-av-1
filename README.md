@@ -1,1 +1,3 @@
-# lp-ex-av-1
+# Linguagens de Programação - Exercício Avaliativo 1
+
+
